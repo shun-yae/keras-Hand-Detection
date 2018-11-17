@@ -2,11 +2,11 @@
 
 ## Hand Detection Tools
 
--hand
+- hand
 Image used for learning
--learning.py
+- learning.py
 Learning model
--tools
+- tools
   - camera.py
   Take an image for learning
   1. Take a picture with "m"
